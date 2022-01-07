@@ -1,7 +1,0 @@
-ll	ll	54	5	555
-kk	ll	88	9	555
-ramazan	gencer	45	11	555
-rama	fd	54	9	555
-gencer	bey	54	10	555
-ramazan	gencer	45	7	555
-ramazan	gencer	458	12	555
